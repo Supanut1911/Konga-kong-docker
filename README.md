@@ -62,3 +62,4 @@ Now you can access konga on [localhost](http://localhost:1337)
 ### Postman Admin API
 [Kong CE Admin API V2.0](https://documenter.getpostman.com/view/10587735/SzS7QS2c?version=latest#b5c37285-0e71-411a-b44d-f06fea8e6b24)
 
+note: add service -> host : ip machine , cant use localhost
